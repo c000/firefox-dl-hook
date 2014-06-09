@@ -1,0 +1,3 @@
+content firefox-dl-hook content/
+
+overlay chrome://browser/content/browser.xul chrome://firefox-dl-hook/content/browserOverlay.xul
